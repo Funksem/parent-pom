@@ -1,4 +1,19 @@
-parent-pom
-==========
+#++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# Name:         ${name}
+# Koordinaten:  ${groupId}:${artifactId}:${version}
+# Archivtyp:    ${packaging}
+# Archivname:   ${project.build.finalName}.${packaging}
+# Build-Time:   ${BuildTime}
+# Build-Nummer: ${buildNumber}
+# JDK:          ${java.version}
+#
+# $Id$
+#
+# Copyright (c) 2014 by funksem
+#
+#++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Maven Parent POM
+
+0.0.1 - 19.08.2014
+---------------------------------------------------------------------------------------------------
+    - initial version
